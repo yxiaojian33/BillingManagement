@@ -1,0 +1,3 @@
+﻿  reportlist.cpp
+e:\草稿\ams\ams\ams\reportlist.cpp(107): warning C4101: “time1”: 未引用的局部变量
+  AMS.vcxproj -> E:\草稿\AMS\AMS\AMS\Debug\AMS.exe

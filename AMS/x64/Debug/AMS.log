@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+  AMS.cpp
+  billList.cpp
+e:\草稿\ams\ams\ams\billlist.cpp(199): warning C4552: ”+“: 未使用表达式结果
+e:\草稿\ams\ams\ams\billlist.cpp(217): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+e:\草稿\ams\ams\ams\billlist.cpp(218): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+e:\草稿\ams\ams\ams\billlist.cpp(249): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\草稿\ams\ams\ams\billlist.cpp(254): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\草稿\ams\ams\ams\billlist.cpp(292): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\草稿\ams\ams\ams\billlist.cpp(297): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  cardlist.cpp
+  menu.cpp
+  reportlist.cpp
+  service.cpp
+  tool.cpp
+  正在生成代码...
+e:\草稿\ams\ams\ams\menu.cpp(73): warning C4715: “inputCardPwd”: 不是所有的控件路径都返回值
+e:\草稿\ams\ams\ams\menu.cpp(50): warning C4715: “inputcard”: 不是所有的控件路径都返回值
+e:\草稿\ams\ams\ams\menu.cpp(96): warning C4715: “inputCardBalance”: 不是所有的控件路径都返回值
+  AMS.vcxproj -> E:\草稿\AMS\AMS\AMS\x64\Debug\AMS.exe
